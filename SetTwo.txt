@@ -1,0 +1,8 @@
+Breakdown
+Size
+Country
+Published_Industry
+Industry
+ANZSIC_1_Digit
+Sector
+Total
